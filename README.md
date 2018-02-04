@@ -1,7 +1,7 @@
 # Php library for the Hetzner Cloud API.
 
 ## Status
-See https://github.com/UwebSoftware/hcloud-php/projects/1
+See https://youtrack.uweb-software.de
   
 ## Documentation
 See https://github.com/UwebSoftware/hcloud-php/wiki
