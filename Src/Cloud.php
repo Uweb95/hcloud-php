@@ -1,13 +1,7 @@
 <?php
 /**
- * Created by Uweb Software
- * Project: hcloud-php
- * License: MIT
- * File: Cloud.php
- * Desc.: Authorization class
- * User: Nils Bartnick
- * Date: 24.01.2018
- * Time: 20:14
+ * This file is part of hcloud-php which is released under MIT.
+ * See file LICENSE or go to https://opensource.org/licenses/MIT for full license details.
  */
 
 namespace Src;
